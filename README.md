@@ -4,8 +4,6 @@
 
 A visually immersive, parallax scroll experience built to celebrate **Techfest's 30th Anniversary**. The page takes users on a cinematic journey from the **Past** → **Present** → **Future** of technology, powered by smooth scroll animations and a sleek dark aesthetic.
 
----
-
 ## ✨ Features
 
 - 🎞️ **Parallax Scrolling** — Smooth depth effects tied to scroll position
@@ -15,8 +13,6 @@ A visually immersive, parallax scroll experience built to celebrate **Techfest's
 - 🔭 **Future Section** — A futuristic vision of what lies ahead
 - 🌙 **Dark Mode First** — Deep navy/cyan palette with glowing accent effects
 - 📱 **Fully Responsive** — Optimized for all screen sizes
-
----
 
 ## 🛠️ Tech Stack
 
@@ -30,8 +26,6 @@ A visually immersive, parallax scroll experience built to celebrate **Techfest's
 | [Lucide React](https://lucide.dev/) | ^1.16.0 | Icons |
 | [Vercel Analytics](https://vercel.com/analytics) | 1.6.1 | Web Analytics |
 | [pnpm](https://pnpm.io/) | — | Package Manager |
-
----
 
 ## 📁 Project Structure
 
@@ -58,8 +52,6 @@ techfest-30-parallax-journey/
 ├── package.json            # Project dependencies
 └── tsconfig.json           # TypeScript configuration
 ```
-
----
 
 ## 🚀 Getting Started
 
@@ -96,30 +88,5 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the r
 pnpm build
 pnpm start
 ```
-
----
-
-## 🌐 Deployment
-
-This project is optimized for deployment on **Vercel**.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Tanya-garg10/techfest-30-parallax-journey)
-
----
-
-## 🎨 Design Highlights
-
-- **Color Palette**: Deep navy (`#0a0e27`) background with `cyan-400` accent glows
-- **Typography**: Geist Sans + Geist Mono (Google Fonts)
-- **Animations**: CSS-based float animations + JS scroll-linked parallax via `useScrollPosition` hook
-- **Grid Overlay**: Subtle cyan grid texture on the hero for a sci-fi aesthetic
-
----
-
-## 📄 License
-
-This project was created for **Techfest 30th Anniversary**. All rights reserved.
-
----
 
 <p align="center">Made with ❤️ for Techfest's 30th Anniversary</p>
